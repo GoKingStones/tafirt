@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="tafirt" uuid="1b3e0331-2771-40e7-9eda-ed4c90b6e03d">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>tafirt.*</schema-pattern>
+      <default-schemas>tafirt.*</default-schemas>
+    </data-source>
+  </component>
+</project>

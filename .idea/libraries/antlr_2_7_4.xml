@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="antlr-2.7.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/工程附加补充/webCharsetDetection/ext/antlr-2.7.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/工程附加补充/webCharsetDetection/ext/chardet-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/工程附加补充/webCharsetDetection/ext/jargs-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

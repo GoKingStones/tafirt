@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Display.html</title>
+	
+    <meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
+    <meta http-equiv="description" content="this is my page">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    <link href="../tafirt/css/page.css" rel="stylesheet" type="text/css" media="screen" />  
+    <link href="../tafirt/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>  
+
+  	<script src="../tafirt/static/echarts.js"></script>
+	<script src="../tafirt/static/jquery-1.10.2.min.js"></script>
+	<script src="http://echarts.baidu.com/doc/example/timelineOption.js"></script> 
+	
+	<script type="text/javascript">
+		function formatMyDate(db_date) {
+		    if(db_date == null){
+		    	return new Date(2000, 1, 1);
+		    }
+		    else{
+	        	/* var strs = db_date.split("-");
+	        	return new Date(parseInt(strs[0]), parseInt(strs[1]), parseInt(strs[2])); */
+	        	return db_date;
+	        }
+	    }	
+	</script>
+  </head>
+  <body>
+	  <div id=page> 
+		  <div id=header>  
+	      	<h1>合作区数据展示</h1>  
+	      </div>   
+		  <div id="zone_area">
+		  	<div id="choose">请选择合作区:</div>	  	
+		  	<div id="result"></div>	
+		  	<div id="div_clear"></div>	  	
+		  </div>	
+		  	
+		  <div id="main" style="width: 600px;height:500px;" onmousedown = "mousedown()"></div>  
+		  <div class="table-responsive">
+		  	<table id="detail" class="table table-bordered table-hover" style="table-layout:fixed">
+		  	</table>
+		  </div>
+	  	  <script type="text/javascript">
+	   	   $.ajax({
+	         type : "post",
+	         async : true,            //异步请求（同步请求将会锁住浏览器，用户其他操作必须等待请求完成才可以执行）
+	         url : "display/asys",    //请求发送到TestServlet处
+	         data : {},
+	         dataType : "json",        //返回数据形式为json
+	         success : function(result) {
+	             //请求成功时执行该函数内容，result即为服务器返回的json对象
+	             if (result) {             					
+			        var t = "<select id = 'zone' style='width:80%;' onchange='doSome();'>";
+			        t += "<option value='default' selected = 'selected'>请选择合作区</option> ";
+			        $.each(result.list, function(i, ite) {
+			      		var tmp = "";
+			      		var name = ite.cooperation_name;
+			            tmp += "<option value="+name+">"+name+"</option>";
+			            t += tmp;       
+			         })
+			         t += "</select>";
+				     $("#result").html(t);
+	            }
+	         
+	       	 },
+	         error : function(errorMsg) {
+	             //请求失败时执行该函数
+	            alert(errorMsg);
+	         	alert("合作区列表请求数据失败!");
+	         }
+	     });
+		 </script>
+		 <script type="text/javascript">
+		 	var Xindex=0;
+		 	function mousedown(){
+                 console.log(Xindex);
+                 //TODO                      
+		 	     $.ajax({
+			         type : "post",
+			         async : true,            //异步请求（同步请求将会锁住浏览器，用户其他操作必须等待请求完成才可以执行）
+			         url : "display/getDetail",  //请求发送到TestServlet处
+			         data : {
+			         	zone:$("#zone option:selected").val(),
+			         	time:Xindex
+			         },
+			         dataType : "json",        //返回数据形式为json
+			         success : function(result) {
+			         	var t = "<thead><tr><th>合作区名称</th><th>新闻标题</th>"+
+			         			"<th>时间</th><th>出处</th>"+
+			         			"<th>链接</th><th>来源</th>"+
+			         			"<th>正文</th><th>数目</th></tr></thead><tbody>";
+						$.each(result.list, function(i, ite) {
+							var tmp = "";
+							tmp += "<tr><td>" + ite.ZoneName;
+							tmp += "</td><td>" + ite.NewsTitle;
+							tmp += "</td><td>" + ite.NewsTime;
+							tmp += "</td><td>" + ite.source;
+							tmp += "</td><td style='overflow:hidden;white-space:nowrap;text-overflow:ellipsis;"+
+									"text-align:center;' title='"+ite.SourceURL+"'>" + ite.SourceURL;
+							tmp += "</td><td>" + ite.SourceApartment;
+							tmp += "</td><td style='overflow:hidden;white-space:nowrap;text-overflow:ellipsis;"+
+									"text-align:center;' title='"+ite.body+"'>" + ite.body;
+							tmp += "</td><td>" + ite.num+ "</td></tr>";
+							t += tmp;
+						})
+						t+="</tbody>";
+						$("#detail").html(t);
+			         },
+			         error : function(errorMsg) {
+			             //请求失败时执行该函数
+			            alert(errorMsg);
+			         	alert("详细新闻报道数据请求失败!");
+			         }
+			     });                                         
+            }  
+		 	function doSome(){
+		 	    // 基于准备好的dom，初始化echarts实例
+		        var app = echarts.init(document.getElementById('main'));
+		   
+		   		app.title = '合作区展示图';
+		   		
+				app.setOption({
+					// 鼠标悬浮
+				    tooltip : {
+				        trigger: 'axis',
+				        axisPointer : {            // 坐标轴指示器，坐标轴触发有效
+				            type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
+				        },
+				        formatter:function(params, ticket, callback){
+				        	var res="";
+		                    if(params.length>0){
+		                        Xindex = params[0].name;   
+		                        res+="时间： "+Xindex+"</br>";		                        
+		                        for(var i=0;i<params.length;i++){
+		                        	var value = params[i].value;
+		                        	if(value==null)
+		                        		value=0;
+		                        	res+=params[i].seriesName + ' : ' + value + '<br/>';
+		                        }	                                           
+		                    }
+		                    return res;	                                
+	                    }
+				    },
+				    dataZoom: [
+		                 {
+		                     type: 'slider',    //支持鼠标滚轮缩放
+		                     start: 0,            //默认数据初始缩放范围为10%到90%
+		                     end: 100
+		                 },
+		                 {
+		                     type: 'inside',    //支持单独的滑动条缩放
+		                     start: 0,            //默认数据初始缩放范围为10%到90%
+		                     end: 100
+		                 }
+		            ],
+				    legend: {
+				        data:['官方网站','百度','总计']
+				    },
+				    grid: {
+				        left: '3%',
+				        right: '4%',
+				        bottom: '3%',
+				        containLabel: true
+				    },
+				    xAxis : [
+				        {
+				            type : 'category',
+				            data : []
+				        }
+				    ],
+				    yAxis : [
+				        {
+				            type : 'value'
+				        }
+				    ],
+				    series: [
+				    	{
+	         				name: '官方网站',
+		       				type: 'bar',
+	           				data: []
+         				},
+         				{
+	         				name: '百度',
+		       				type: 'bar',
+	           				data: []
+         				},
+         				{
+	         				name: '总计',
+		       				type: 'line',
+	           				data: []
+         				}
+         			]
+        		 });
+         		 // 异步加载数据
+		 		 app.showLoading();    //数据加载完之前先显示一段简单的loading动画
+		 		 
+		 		 var times=[];    //类别数组（实际用来盛放X轴坐标值）
+         		 var web_nums=[];    //销量数组（实际用来盛放Y坐标值）
+         		 var page_nums=[];    //销量数组（实际用来盛放Y坐标值）
+         		 var all_nums=[];    //销量数组（实际用来盛放Y坐标值）
+		 		  
+		 	     $.ajax({
+			         type : "post",
+			         async : true,            //异步请求（同步请求将会锁住浏览器，用户其他操作必须等待请求完成才可以执行）
+			         url : "display/getData",  //请求发送到TestServlet处
+			         data : {zone:$("#zone option:selected").val()},
+			         dataType : "json",        //返回数据形式为json
+			         success : function(result) {
+			             //请求成功时执行该函数内容，result即为服务器返回的json对象
+			             if (result) {      					
+					        $.each(result.official, function(i, item){
+					        	var tmp = item.NewsTime;
+					 			times.push(formatMyDate(tmp));
+								page_nums.push(item.num);  
+							});
+							$.each(result.baidu, function(i, item){
+								web_nums.push(item.num);  
+							});
+							$.each(result.all, function(i, item){
+								all_nums.push(item.num);  
+							});
+		
+		                    app.hideLoading();    //隐藏加载动画
+		                    app.setOption({        //加载数据图表
+		                        xAxis: {
+		                            data: times
+		                        },
+		                        series: [
+		                        	{
+			                            // 根据名字对应到相应的系列
+			                            name: '官方网站',
+			                            data: page_nums
+		                        	},
+		                        	{
+			                            // 根据名字对应到相应的系列
+			                            name: '百度',
+			                            data: web_nums
+		                        	},
+		                        	{
+			                            // 根据名字对应到相应的系列
+			                            name: '总计',
+			                            data: all_nums
+		                        	}
+		                        ]
+		                    });                   
+			         	}
+			       	 },
+			         error : function(errorMsg) {
+			             //请求失败时执行该函数
+			            alert(errorMsg);
+			         	alert("图表请求数据失败!");
+			         }
+			     });             
+            }   
+		 </script>
+  	</div>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="IKLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/工程附加补充/IKLib" />
+      <root url="file://$USER_HOME$/Desktop/工程附加补充/webCharsetDetection" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/工程附加补充/IKLib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/工程附加补充/webCharsetDetection" recursive="false" />
+  </library>
+</component>

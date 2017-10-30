@@ -1,0 +1,65 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="tafirt:war exploded">
+    <output-path>$PROJECT_DIR$/WebRoot</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tafirt" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.jfinal:jfinal:3.1" />
+          <element id="library" level="project" name="Maven: cglib:cglib-nodep:3.1" />
+          <element id="library" level="project" name="Maven: it.sauronsoftware.cron4j:cron4j:2.2.5" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-core:3.6.1" />
+          <element id="library" level="project" name="Maven: org.wltea.ik-analyzer:ik-analyzer:2012_u6" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Maven: org.glassfish:javax.annotation:3.0.1" />
+          <element id="library" level="project" name="Maven: org.glassfish:javax.ejb:3.0.1" />
+          <element id="library" level="project" name="Maven: org.glassfish:javax.transaction:3.0.1" />
+          <element id="library" level="project" name="Maven: org.jboss.weld:weld-osgi-bundle:1.0.1-SP3" />
+          <element id="library" level="project" name="Maven: javax.enterprise:cdi-api:1.0-SP1" />
+          <element id="library" level="project" name="Maven: org.jboss.interceptor:jboss-interceptor-api:1.1" />
+          <element id="library" level="project" name="Maven: javax.annotation:jsr250-api:1.0" />
+          <element id="library" level="project" name="Maven: org.jboss.weld:weld-api:1.0-SP1" />
+          <element id="library" level="project" name="Maven: org.jboss.weld:weld-core:1.0.1-SP3" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-ext:1.5.10" />
+          <element id="library" level="project" name="Maven: ch.qos.cal10n:cal10n-api:0.7.2" />
+          <element id="library" level="project" name="Maven: org.jboss.weld:weld-spi:1.0-SP1" />
+          <element id="library" level="project" name="Maven: javassist:javassist:3.11.0.GA" />
+          <element id="library" level="project" name="Maven: com.google.collections:google-collections:1.0" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: org.jboss.interceptor:jboss-interceptor:1.0.0-CR11" />
+          <element id="library" level="project" name="Maven: org.glassfish:javax.servlet:3.0.1" />
+          <element id="library" level="project" name="Maven: us.codecraft:webmagic-core:0.7.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.4" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.9" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.1" />
+          <element id="library" level="project" name="Maven: us.codecraft:xsoup:0.3.1" />
+          <element id="library" level="project" name="Maven: org.assertj:assertj-core:1.5.0" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.6" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.6" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+          <element id="library" level="project" name="Maven: com.jayway.jsonpath:json-path:0.8.1" />
+          <element id="library" level="project" name="Maven: net.minidev:json-smart:1.1.1" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.28" />
+          <element id="library" level="project" name="Maven: us.codecraft:webmagic-extension:0.7.2" />
+          <element id="library" level="project" name="Maven: redis.clients:jedis:2.9.0" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.4.2" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.15" />
+          <element id="library" level="project" name="Maven: javax.mail:mail:1.4" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.25" />
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.7.3" />
+          <element id="library" level="project" name="Maven: com.hankcs:hanlp:portable-1.2.8" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="tafirt/web/Web" />
+    </root>
+  </artifact>
+</component>
