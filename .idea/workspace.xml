@@ -7,358 +7,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01271f16-0340-4781-9453-1e18d566375e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/10.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/11.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/12.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/13.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/14.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/15.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/19.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/4.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/5.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/6.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/8.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/aiji/9.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/prettyPhoto/default/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/Unrestricted-RobotSet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/author.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/avatar1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/avatar2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/backgimg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/bag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/big_slider1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/big_slider2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/big_slider3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/blog_big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/channeng.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/chanyeyuan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/clients/client1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/clients/client2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/clients/client3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/clients/client4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/clients/client5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/clients/client6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/clipboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/colors.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/compass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/prettyPhoto/default/default_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/dummy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/timelineicons/ecoico.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/timelineicons/ecoico.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/timelineicons/ecoico.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/erroRoad.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/fenbu.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/us/fgw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/flames.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/gift.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/tj_julong/guihua.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/tj_julong/guihua1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/hbaseimg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/hdfsimg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/iMac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/imac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/capacity/shuini/img1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/capacity/shuini/img2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/capacity/shuini/img3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/capacity/shuini/img4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/index_slider1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/index_slider2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/index_slider3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/infinity.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/tj_julong/jieshao1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/jingjizhuyaozhibiao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/special/kongxi.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/kuozhanquguihua1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/landscape.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/lines.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/prettyPhoto/default/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/logo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/logo_topwhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/main_carousel_nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/my_avatar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/next-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/next-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/peitaosheshi1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/peitaosheshi2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/play-pause-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/pop_post1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/pop_post2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/pop_post3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/preload_img.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/prev-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/qiye1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/special/renkou.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/assets/responsive-illustrations.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/retina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/nation/risk2016.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/rmyhlogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/robot1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/robot2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/rocket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/s1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/s1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/s2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/s2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/s3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/s3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/s4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/s4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/s5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/s5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/s6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/s6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/s7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/s7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/s8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/small/s8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/large/screen3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/share.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/capacity/shuini/shichang1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/capacity/shuini/shichang2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/capacity/shuini/shichang3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/capacity/shuini/shichang4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/single_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/single_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/portfolio/single_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/slide2_yuanqu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/slider1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/slider2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/slider3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/slider4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider_nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/slidera.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/sliderb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/sliderc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/spark.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/sparkBrain.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/prettyPhoto/default/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/prettyPhoto/default/sprite_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/prettyPhoto/default/sprite_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/prettyPhoto/default/sprite_x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/prettyPhoto/default/sprite_y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/us/swb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/team1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/team2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/team3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/team4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/team5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/team6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/illustrations/time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/timer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/us/timg-2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/us/timg-3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/us/timg-4.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/us/timg.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/top_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/touziqiyezhibiao1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/touziyoushi1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/tree_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/北京_赞比亚经贸合作区/weizhi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/weizhi1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/welcome_bigdata_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/capacity/shuini/xiaofeiliang.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/yaogan.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/tj_julong/youshi1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/tj_julong/yuanqufencai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/yuanqumiaoshu1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/yuanqumiaoshu2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/yuanqumiaoshu3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/special/yuqing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/special/ziyuan.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/zocial-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/zocial-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/zocial-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zoom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/埃及国际市场.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/teda/成本.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/北京_赞比亚经贸合作区/概述.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/zone/广东_尼日利亚广东经贸合作区/规划图.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/IKLib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wltea_ik_analyzer_ik_analyzer_2012_u6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/timelineicons/Read Me.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/aiji.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/alt_footer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/css/alt_footer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/alt_footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/antlr_2_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql/basicinfo.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/beijing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/blog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/blog_post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/blog_post2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/blog_two.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/capacity_detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/capacity_map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/echarts/china.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/echarts/china.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/chongqing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/contact_form/contact_process.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/cpdetector_1_0_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/css/docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/dribbble_stream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/echarts2/echarts-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/echarts2/echarts-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/echarts/echarts.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/echarts/echarts.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/timelineicons/ecoico.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/timelineicons/ecoico.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/contact_form/email_validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/environment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/img/slider/environment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/full.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/full_slider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/full_video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/gmap3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/gmap3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/guangdong.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/guangxi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/heilongjiang.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/henan.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/index3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/index4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jPages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jPages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jiangsu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jilin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery.carouFredSel-6.2.1-packed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery.carouFredSel-6.2.1-packed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery.catslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery.catslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery.isotope.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery.isotope.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery.nerveSlider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery.nerveSlider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery.nivo.slider.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery.nivo.slider.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery.prettyPhoto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery.prettyPhoto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery.themepunch.plugins.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery.themepunch.plugins.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery.themepunch.revolution.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery.themepunch.revolution.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/jquery.touchSwipe.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/jquery.touchSwipe.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/left_sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/liaoning.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/timelineicons/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/modernizr.custom.63321.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/modernizr.custom.63321.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/modernizr.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/modernizr.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/nation_map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/neimenggu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/nerveslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/css/nerveslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/news.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/ningxia.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql/officialwebsite.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/partner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/portfolio_2columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/portfolio_3columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/portfolio_4columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/portfolio_masonry.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/prettyPhoto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/css/prettyPhoto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/pricing_table.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/right_sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/scaffolding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/script_examples.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/services.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/settings.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/css/settings.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/shandong.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/shanghai.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/shanxi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/shortcodes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/single_image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/single_portfolio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/single_video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/css/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql/task.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/team.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/testimonials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/css/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/tianjin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/timeline.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/css/timeline.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/timeline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/typography.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/video_gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/yuanqu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/yunnan.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/zhejiang.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/font/zocial-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/zocial.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/css/zocial.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql/zone_basic_info_table.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/zone_map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/zone_search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/DataTeset.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_chukou.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_cugang.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jiangsuchukou.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jinchukou.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/jianpuzhai/countryMacroData_jinchukou.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/yinni/countryMacroData_jinchukou.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jinkou.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/jianpuzhai/countryMacroData_jinkou.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/yinni/countryMacroData_jinkou.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_qiche.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_tielu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/country/intelligenceSearchForCountry.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/contact_form/contact_process.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/contact_form/email_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/static/echarts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/static/jquery-1.10.2.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tafirt-0.0.1-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/tafirt-0.0.1-SNAPSHOT.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/index.html" afterPath="$PROJECT_DIR$/WebRoot/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tafirt.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -401,7 +71,120 @@
     <favorites_list name="tafirt" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="intelligenceSearchForCountry.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebRoot/country/intelligenceSearchForCountry.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.58536583">
+              <caret line="120" column="32" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#8498#10147#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countryMacroData_jinchukou.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/country/jianpuzhai/countryMacroData_jinchukou.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-91.15151">
+              <caret line="270" column="26" selection-start-line="270" selection-start-column="26" selection-end-line="270" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countryMacroData_jinkou.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/country/jianpuzhai/countryMacroData_jinkou.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.060606">
+              <caret line="278" column="25" selection-start-line="278" selection-start-column="25" selection-end-line="278" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countryMacroData_jinchukou.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/country/yinni/countryMacroData_jinchukou.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5151515">
+              <caret line="256" column="28" selection-start-line="256" selection-start-column="28" selection-end-line="256" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countryMacroData_jinkou.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/country/yinni/countryMacroData_jinkou.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-140.36363">
+              <caret line="278" column="27" selection-start-line="278" selection-start-column="27" selection-end-line="278" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countryMacroData_jinkou.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jinkou.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.545455">
+              <caret line="248" column="35" selection-start-line="248" selection-start-column="35" selection-end-line="248" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countryMacroData_jinchukou.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jinchukou.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.424242">
+              <caret line="248" column="35" selection-start-line="248" selection-start-column="35" selection-end-line="248" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countryMacroData_qiche.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_qiche.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-130.18182">
+              <caret line="245" column="35" selection-start-line="245" selection-start-column="35" selection-end-line="245" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countryMacroData_tielu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_tielu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.1166666">
+              <caret line="258" column="35" selection-start-line="258" selection-start-column="35" selection-end-line="258" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countryMacroData_jiangsuchukou.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jiangsuchukou.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.878788">
+              <caret line="248" column="35" selection-start-line="248" selection-start-column="35" selection-end-line="248" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -418,7 +201,6 @@
         <option value="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/WebRoot/zone_analysis.html" />
         <option value="$PROJECT_DIR$/WebRoot/zone_search.html" />
-        <option value="$PROJECT_DIR$/WebRoot/index.html" />
         <option value="$PROJECT_DIR$/src/controller/DisplayController.java" />
         <option value="$PROJECT_DIR$/src/test/SimhashTest.java" />
         <option value="$PROJECT_DIR$/src/test/Stringtest.java" />
@@ -428,6 +210,23 @@
         <option value="$PROJECT_DIR$/src/config/BaseConfig.java" />
         <option value="$PROJECT_DIR$/WebRoot/WEB-INF/classes/demo_config.txt" />
         <option value="$PROJECT_DIR$/src/demo_config.txt" />
+        <option value="$PROJECT_DIR$/WebRoot/countryMacroData.html" />
+        <option value="$PROJECT_DIR$/WebRoot/intelligenceSearchForCountry.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData.html" />
+        <option value="$PROJECT_DIR$/WebRoot/index.html" />
+        <option value="$PROJECT_DIR$/src/test/DataTeset.java" />
+        <option value="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_chukou.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_cugang.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jiangsuchukou.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jinchukou.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jinkou.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_qiche.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_tielu.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/yinni/countryMacroData_jinkou.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/yinni/countryMacroData_jinchukou.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/jianpuzhai/countryMacroData_jinkou.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/jianpuzhai/countryMacroData_jinchukou.html" />
+        <option value="$PROJECT_DIR$/WebRoot/country/intelligenceSearchForCountry.html" />
       </list>
     </option>
   </component>
@@ -463,10 +262,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="x" value="-154" />
+    <option name="y" value="-1051" />
+    <option name="width" value="1658" />
+    <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -492,7 +291,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -535,7 +333,95 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tafirt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tafirt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="country" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tafirt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tafirt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="country" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yinni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tafirt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tafirt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="country" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jianpuzhai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tafirt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tafirt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="country" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aiji" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -567,7 +453,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="text" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -585,53 +471,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tafirt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tafirt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tafirt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tafirt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sql" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -642,8 +497,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/sql" />
+      <recent name="$PROJECT_DIR$/WebRoot/country/jianpuzhai" />
+      <recent name="$PROJECT_DIR$/WebRoot/country/yinni" />
+      <recent name="$PROJECT_DIR$/WebRoot/country/aiji/yinni" />
+      <recent name="$PROJECT_DIR$/WebRoot/country/aiji" />
       <recent name="$PROJECT_DIR$/WebRoot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebRoot/country" />
+      <recent name="$PROJECT_DIR$/WebRoot/country/aiji" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.tafirt">
@@ -1168,7 +1030,6 @@
     </configuration>
     <configuration default="false" name="tafirt" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.65" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/tafirt/index.html" />
-      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="tafirt:war exploded">
           <settings>
@@ -1265,15 +1126,18 @@
       <workItem from="1505890253589" duration="929000" />
       <workItem from="1506321419491" duration="558000" />
       <workItem from="1506500525803" duration="6319000" />
-      <workItem from="1509329881244" duration="1024000" />
+      <workItem from="1509329881244" duration="4164000" />
+      <workItem from="1510625696327" duration="464000" />
+      <workItem from="1510732769250" duration="1083000" />
+      <workItem from="1511224488895" duration="18743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21498000" />
+    <option name="totallyTimeSpent" value="44928000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-1057" width="1920" height="1057" extended-state="6" />
+    <frame x="-154" y="-1051" width="1658" height="1041" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1289,21 +1153,21 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258786" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13791268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21287128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19648562" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39829606" sideWeight="0.49676898" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32719395" sideWeight="0.49676898" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26387316" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1326,208 +1190,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/model/Baidu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/service/TaskService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/service/TaskServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo_config.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/getCharset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/CorrectController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/WordsSegment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/02588cef-086d-4e8c-83d3-fc322c24973a/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/955acfc/1b3e0331-2771-40e7-9eda-ed4c90b6e03d/tafirt..task">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1b3e0331-2771-40e7-9eda-ed4c90b6e03d/console.sql">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6891892">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/KeywordExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/TaskDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/WordsSegment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/web/GeneralProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/web/decentProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3316583">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/zone_search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.878788">
-          <caret line="428" column="16" selection-start-line="428" selection-start-column="16" selection-end-line="428" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interceptor/ExceptionIntoLogInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-97.454544">
-          <caret line="134" column="20" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Baidu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/service/TaskService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/HTML/Display.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.428571">
-          <caret line="198" column="12" selection-start-line="198" selection-start-column="12" selection-end-line="198" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/SourceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/CorrectController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/SimhashTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Stringtest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="110" column="37" selection-start-line="110" selection-start-column="37" selection-end-line="110" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/basicinfo.sql">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/Desktop/工程附加补充/webCharsetDetection/cpdetector_1.0.10.jar!/info/monitorenter/cpdetector/io/JChardetFacade.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.58434784">
@@ -1553,55 +1215,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sql/task.sql">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sql/officialwebsite.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo_config.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08938547">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/config/BaseConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31098697">
-          <caret line="77" column="45" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding />
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -1609,15 +1242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13407822">
           <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/zone_basic_info_table.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1625,7 +1249,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1633,7 +1256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1641,7 +1263,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="280" column="72" selection-start-line="280" selection-start-column="72" selection-end-line="280" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1649,10 +1270,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.5745099">
           <caret line="482" column="13" selection-start-line="482" selection-start-column="13" selection-end-line="482" selection-end-column="13" />
-          <folding>
-            <element signature="e#16569#16570#0" expanded="true" />
-            <element signature="e#16634#16635#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1668,7 +1285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.54116356">
           <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1676,23 +1292,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19648738">
           <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Websites.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34248078">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/DisplayController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1700,7 +1299,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0055866">
           <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1708,7 +1306,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.11359404">
           <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1716,7 +1313,301 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.26815644">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.703911">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interceptor/ExceptionIntoLogInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="64" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/BaseConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Baidu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4199#4200#0" expanded="false" />
+            <element signature="e#4265#4266#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/zone_basic_info_table.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo_config.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07048458">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Websites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#456#457#0" expanded="false" />
+            <element signature="e#511#512#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/HTML/Display.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5555556">
+          <caret line="198" column="12" selection-start-line="198" selection-start-column="12" selection-end-line="198" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/HTML/testTime.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/HTML/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7407407">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/DisplayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.7797356">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web/pengshengProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.040472176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/echarts/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-34.522766">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/capacity_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.257143">
+          <caret line="211" column="61" selection-start-line="211" selection-start-column="27" selection-end-line="211" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/aiji.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="17.454546">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.090909">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.090909">
+          <caret line="49" column="90" selection-start-line="49" selection-start-column="90" selection-end-line="49" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/DataTeset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36194897">
+          <caret line="215" column="12" selection-start-line="215" selection-start-column="12" selection-end-line="215" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/portfolio_masonry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.856149">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/text/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0569832">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_chukou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.212121">
+          <caret line="248" column="35" selection-start-line="248" selection-start-column="35" selection-end-line="248" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_cugang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.878788">
+          <caret line="276" column="35" selection-start-line="276" selection-start-column="35" selection-end-line="276" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jiangsuchukou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.878788">
+          <caret line="248" column="35" selection-start-line="248" selection-start-column="35" selection-end-line="248" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jinchukou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.424242">
+          <caret line="248" column="35" selection-start-line="248" selection-start-column="35" selection-end-line="248" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_jinkou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.545455">
+          <caret line="248" column="35" selection-start-line="248" selection-start-column="35" selection-end-line="248" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_tielu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1166666">
+          <caret line="258" column="35" selection-start-line="258" selection-start-column="35" selection-end-line="258" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/yinni/countryMacroData_jinchukou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5151515">
+          <caret line="256" column="28" selection-start-line="256" selection-start-column="28" selection-end-line="256" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/aiji/countryMacroData_qiche.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-130.18182">
+          <caret line="245" column="35" selection-start-line="245" selection-start-column="35" selection-end-line="245" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/yinni/countryMacroData_jinkou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-140.36363">
+          <caret line="278" column="27" selection-start-line="278" selection-start-column="27" selection-end-line="278" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/jianpuzhai/countryMacroData_jinkou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.060606">
+          <caret line="278" column="25" selection-start-line="278" selection-start-column="25" selection-end-line="278" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/jianpuzhai/countryMacroData_jinchukou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-91.15151">
+          <caret line="270" column="26" selection-start-line="270" selection-start-column="26" selection-end-line="270" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/country/intelligenceSearchForCountry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58536583">
+          <caret line="120" column="32" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#8498#10147#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
